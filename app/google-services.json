@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "117224601946",
+    "firebase_url": "https://suta5900-13dfb.firebaseio.com",
+    "project_id": "suta5900-13dfb",
+    "storage_bucket": "suta5900-13dfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117224601946:android:a3b3032f971f246d",
+        "android_client_info": {
+          "package_name": "dreamforone.com.suta5900"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117224601946-38b1q39qs5pl9jf51q6u7h9cm2i4nm90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dreamforone.com.suta5900",
+            "certificate_hash": "a1b2c33b0919e11f8d5a82bf100130064ed0ae96"
+          }
+        },
+        {
+          "client_id": "117224601946-k4hdolng0frt5bocuv9k0iu3hr7mfprn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIVR2jmghZA9-uH7v4TOuInohFiTzD_lY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117224601946-k4hdolng0frt5bocuv9k0iu3hr7mfprn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
